@@ -1,0 +1,13 @@
+D:\ToolXML\ToolXML\bin\Debug\ToolXML.dll
+D:\ToolXML\ToolXML\bin\Debug\ToolXML.pdb
+D:\ToolXML\ToolXML\bin\Debug\ToolXML.dll.manifest
+D:\ToolXML\ToolXML\bin\Debug\ToolXML.vsto
+D:\ToolXML\ToolXML\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\ToolXML\ToolXML\obj\Debug\ToolXML.csproj.AssemblyReference.cache
+D:\ToolXML\ToolXML\obj\Debug\ToolXML.Properties.Resources.resources
+D:\ToolXML\ToolXML\obj\Debug\ToolXML.Ribbon1.resources
+D:\ToolXML\ToolXML\obj\Debug\ToolXML.csproj.GenerateResource.cache
+D:\ToolXML\ToolXML\obj\Debug\ToolXML.csproj.CoreCompileInputs.cache
+D:\ToolXML\ToolXML\obj\Debug\ToolXML.csproj.CopyComplete
+D:\ToolXML\ToolXML\obj\Debug\ToolXML.dll
+D:\ToolXML\ToolXML\obj\Debug\ToolXML.pdb
