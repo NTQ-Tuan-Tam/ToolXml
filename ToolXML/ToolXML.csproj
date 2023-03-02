@@ -157,8 +157,11 @@
   -->
   <ItemGroup>
     <Compile Include="Constants\ExcelConstant.cs" />
+    <Compile Include="Controll\ExcelWriter.cs" />
     <Compile Include="Controll\GenerateMethodBuilder.cs" />
     <Compile Include="Controll\XmlHelper.cs" />
+    <Compile Include="Model\AuditLog.cs" />
+    <Compile Include="Model\AuditLogs.cs" />
     <Compile Include="Model\Input.cs" />
     <Compile Include="Model\Inputs.cs" />
     <Compile Include="Model\Method.cs" />

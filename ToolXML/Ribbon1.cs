@@ -25,7 +25,7 @@ namespace ToolXML
 
 		private void ReadFromXml_Click(object sender, RibbonControlEventArgs e)
 		{
-
+			Globals.ThisAddIn.LoadToXml();
 		}
 	}
 }

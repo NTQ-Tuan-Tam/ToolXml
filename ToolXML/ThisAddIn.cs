@@ -63,11 +63,13 @@ namespace ToolXML
 					Excel._Workbook workbook = Application.Workbooks.Add(Type.Missing);
 					Application.Visible = true;
 
-					// Rename current default sheet to 設定
-					workbook.ActiveSheet.Name = ExcelSheet.MethodList;
+                    workbook.ActiveSheet.Name = ExcelSheet.MethodList; 
 
-					Excel._Worksheet worksheetMethod = workbook.ActiveSheet;
-					worksheetMethod.FillMethodList(generateMethod);
+
+
+					//workbook.Sheets.Add(Before: workbook.ActiveSheet).Name = ExcelSheet.MethodList;
+					Excel._Worksheet worksheetOperationContract = workbook.ActiveSheet;
+					worksheetOperationContract.FillMethodList(generateMethod.Method);
 				}
             }
 		}

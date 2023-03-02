@@ -20,5 +20,8 @@ namespace ToolXML.Model
 
 		[XmlElement(ElementName = "Inputs")]
 		public Inputs Inputs { get; set; }
+
+		[XmlElement(ElementName = "AuditLogs")]
+		public AuditLogs AuditLogs { get; set; }
 	}
 }
